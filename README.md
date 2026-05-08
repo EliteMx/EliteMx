@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por crear aplicaciones escalables y optimizar en
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="github-readme-stats.shion.dev/api?username=EliteMx&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=EliteMx&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
