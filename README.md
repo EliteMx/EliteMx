@@ -60,7 +60,10 @@ Soy un desarrollador apasionado por crear aplicaciones escalables y optimizar en
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliteMx&theme=react" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliteMx&theme=react" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliteMx&theme=react" height="150" />
+</p>
 ---
 
 ### 📫 Conéctame
