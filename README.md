@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por crear aplicaciones escalables y optimizar en
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EliteMx&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://metrics.lecoq.io/EliteMx?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America/Merida" alt="GitHub Metrics" width="400" />
 </p>
 
 <p align="center">
