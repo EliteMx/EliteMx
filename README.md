@@ -1,7 +1,7 @@
 # 👋 Hola, soy EliteMx 
 
 ### 🚀 Building. Learning. Sharing.
-Soy un desarrollador apasionado por crear aplicaciones escalables y optimizar entornos tecnológicos. Me enfoca el crecimiento continuo y la colaboración con la comunidad de código abierto.
+Soy un desarrollador intentando crear aplicaciones escalables y optimizar entornos tecnológicos. Me enfoca el crecimiento continuo y la colaboración con la comunidad de código abierto.
 
 ---
 
